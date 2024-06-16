@@ -1,12 +1,7 @@
-- 👋 Hola, soy @Toxikate
-- 👀 Estoy interesada en el crecimiento personal y el coaching
-- 🌱 Actualmente estoy aprendiendo nuevas estrategias de desarrollo personal
-- 💞️ Estoy buscando colaborar en proyectos relacionados con el coaching y la mejora continua
-- 📫 Cómo contactarme: arques1993@gmail.com
-- 😄 Pronombres: ella
-- ⚡ Dato curioso: Me apasiona ayudar a las personas a alcanzar su máximo potencial y transformar sus vidas
-
-<!---
-Toxikate/Toxikate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 ¡Hola! Soy @Toxikate.
+- 👀 Me apasiona el crecimiento personal y el coaching, con más de 10 años de experiencia en ayudar a personas a alcanzar su máximo potencial.
+- 🌱 Constantemente aprendo nuevas estrategias de desarrollo personal para enriquecer mi práctica.
+- 💞️ Busco colaborar en proyectos que promuevan el coaching y la mejora continua.
+- 📫 Puedes contactarme en arques1993@gmail.com.
+- 😄 Mis pronombres son ella.
+- ⚡ Dato curioso: Después de años viajando y aprendiendo de mentores excepcionales, mi propósito es compartir lo aprendido para que otros no tengan que tropezar con los mismos obstáculos que yo. Estoy aquí para inspirarte a descubrir tu verdadero potencial y ayudarte a convertirte en la mejor versión de ti mismo. Tu ubicación actual no define tu futuro con mi guía, puedes alcanzar metas que nunca imaginaste posibles.
